@@ -1,0 +1,29 @@
+body {
+    font-family: $code;
+    font-size: $type-default;
+    margin: 0 $margin;
+
+    @include min( 48rem ) {
+        margin: auto;
+        max-width: 35rem;
+    }
+}
+
+.masthead {
+    margin: 5rem 0;
+
+    h1 {
+        font-size: $type-subheading;
+    }
+}
+
+@include min( 48rem ) {
+    img.breakout {
+        margin-left: -7.5rem;
+        max-width: 50rem;
+    }
+}
+
+footer {
+    margin: 5rem 0;
+}

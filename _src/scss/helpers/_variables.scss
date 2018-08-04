@@ -1,0 +1,39 @@
+// Margins/Padding
+$margin-small: .5rem;
+$margin: 1rem;
+$margin-large: 1.5rem;
+
+// GRID
+$grid-gutter-width: 1.5rem;
+
+// FONTS
+
+$body: -apple-system, BlinkMacSystemFont, Avenir, "Avenir Next", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$heading: 'Gilroy', -apple-system, BlinkMacSystemFont, Avenir, "Avenir Next", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+$code: "Inconsolata";
+
+// TYPE SIZES
+
+$type-small: .8rem;
+$type-default: 1rem;
+$type-large: 1.25rem;
+$type-subheading: 1.6rem;
+$type-heading: 2.4rem;
+$type-title: 3rem;
+$type-display: 6rem;
+
+// COLOURS
+$white: #f5f5f5;
+$black: #272a35;
+$red: #eb3d54;
+$green: #78bd65;
+$blue: #18a5ad;
+$orange: #fe811b;
+
+// Greys
+$light-black: tint( $black, 75% );
+$mid-black: tint( $black, 50% );
+$dark-black: tint( $black, 25% );
+$dark-white: shade( $white, 15% );
+$mid-white: shade( $white, 10% );
+$light-white: shade( $white, 5% );

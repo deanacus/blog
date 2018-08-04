@@ -1,0 +1,64 @@
+label,
+legend {
+    color: tint( $black, 30% );
+    display: block;
+    display: block;
+    font-family: $body;
+    font-size: $type-small;
+    margin-bottom: 1.5rem;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="search"],
+input[type="file"],
+input[type="email"],
+input[type="tel"],
+input[type="url"],
+input[type="number"],
+input[type="date"],
+input[type="time"],
+input[type="color"],
+input[type="file"],
+select,
+textarea {
+    background: transparent;
+    border: 1px solid tint( $black, 50% );
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: $black;
+    display: block;
+    font-family: $body;
+    font-size: $type-default;
+    height: 2.5rem;
+    min-width: 50%;
+    padding: .5rem .6rem;
+
+    &:hover {
+        border-color: tint( $black, 25% );
+    }
+
+    &:focus {
+        border-color: $black;
+        outline: 0;
+    }
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    display: inline-block;
+}
+
+input[type="file"] {
+    font-size: $type-small;
+}
+
+input[type="color"] {
+    background-color: transparent;
+    border-color: transparent;
+    height: 1.5rem;
+    min-width: 1.5rem;
+    overflow: hidden;
+    padding: 0;
+    width: 1.5rem;
+}

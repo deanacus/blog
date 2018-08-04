@@ -1,0 +1,40 @@
+h1,
+.h1 {
+    font-family: $heading;
+    font-size: $type-title;
+    letter-spacing: -.1rem;
+    margin: .5em 0;
+}
+
+h2 ,
+.h2 {
+    font-family: $heading;
+    font-size: $type-heading;
+    margin: .5em 0;
+}
+
+h3,
+.h3 {
+    font-family: $heading;
+    font-size: $type-subheading;
+    margin: .5em 0;
+}
+
+h4,
+.h4 {
+    font-family: $heading;
+    font-size: $type-large;
+    margin: .5em 0;
+}
+
+h5,
+.h5 {
+    font-family: $heading;
+    margin: .5em 0;
+}
+
+h6,
+.h6 {
+    font-family: $heading;
+    margin: .5em 0;
+}

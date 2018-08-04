@@ -1,0 +1,9 @@
+@mixin drag-upload {
+    border: 2px dashed tint( $black, 50% );
+    height: 10rem;
+    width: 100%;
+
+    &.dragover {
+        border-color: tint( $black, 25% );
+    }
+}

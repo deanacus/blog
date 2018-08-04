@@ -1,0 +1,58 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+    thead {
+        display: none;
+
+        @include min( 48rem ) {
+            display: table-header-group;
+        }
+
+        tr {
+            border-bottom: .125rem solid $light-black;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        th {
+            padding: .5rem;
+        }
+    }
+
+    tbody {
+
+        tr {
+            border-bottom: .0625rem solid $light-black;
+
+            &:nth-child( odd ) {
+                background: $light-white;
+                border: 0;
+
+                @include min ( 48rem ) {
+                    border-bottom: .0625rem solid $light-black;
+                }
+            }
+        }
+
+        td {
+            display: block;
+            padding: .5rem;
+
+            &::before {
+                content: attr( data-title );
+                display: block;
+                font-weight: bold;
+            }
+
+            @include min( 48rem ) {
+                display: table-cell;
+                padding: .5rem;
+
+                &::before {
+                    content: none;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+pre,
+code,
+kbd,
+tt,
+samp,
+var {
+    font-family: $code;
+}
+
+pre code {
+    background: $light-white;
+    display: block;
+    padding: 1rem;
+}

@@ -1,0 +1,21 @@
+article {
+    header {
+        h1 {
+            font-size: $type-heading;
+            margin: 0;
+        }
+
+        date {
+            color: $mid-black;
+        }
+    }
+
+    blockquote cite {
+        display: block;
+        text-align: right;
+
+        &::before {
+            content: '\2014 ';
+        }
+    }
+}
