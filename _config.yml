@@ -1,0 +1,8 @@
+permalink: article/:title/
+exclude: [package.json, yarn.lock, webpack.config.js, node_modules]
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: none
