@@ -5,7 +5,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "webpack --mode=development --watch & jekyll build --watch & light-server -s ./_site/ -p 4040 -w \"./_site/**/*\" -o",
-    "build": "webpack --mode=production && jekyll build"
+    "build": "webpack --mode=production && jekyll build",
+    "serve": "light-server -s ./_site/ -p 8080 -w \"_site/**/*\" -o",
+    "deploy": "surge ./_site/"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
