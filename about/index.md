@@ -17,7 +17,7 @@ Originally from the small town of [Lismore][lismore], I live in [Brisbane][brisb
 
 This site is built with [Jekyll](jekyll), hosted for free at [Surge](surge). The [source][repo] is available to browse on [GitHub](github)
 
-Check out the [Gear][gear] page to see what I use to do the things I do.
+Check out the [gear][gear] page to see what I use to do the things I do.
 
 
 [lismore]: https://en.wikipedia.org/wiki/Lismore,_New_South_Wales "Lismore"

@@ -3,7 +3,35 @@ layout: post
 title: Git commit -m
 ---
 
-Commit messages are very important. They tell anyone, especially your future
+For the longest time, I never really cared about the content and quality of my
+git commit messages. I figured they were just a formality enforced by git.
+
+Until I started to do actual work on actual projects. Then I realised that the
+quality and content of a git commit message was very important. The first time I
+had to `git log`, to try and find a commit relating to a certain change, I
+realised It would be so much easier if I had good messages.
+
+Over time, my understanding of what makes up a good message has changed
+significantly. At first I tried to just cram as much info into a single line as
+possible. Then I realised I should using multiple lines, and finally I realised
+that a truly great git commit message doesn't concern itself with the specifics
+of a code change, just the context that surrounds it.
+
+I've since come up with the following guidelines, which I am currently testing 
+out on personal projects to see how much help it tuly is.
+
+## Basic Guidelines
+
+* A commit message should communicate the context of a change, not the specifics
+* It should be written in the present, imperitive tense
+* It should be as brief as possible
+* If a commit needs to cover multiple changes, it should be broken up into
+    multiple commits.
+* The first line should be treated like an email subject line and no more than
+    50 characters long.
+* The body should 
+
+<!-- Commit messages are very important. They tell anyone, especially your future
 self what you did at any given point in time in any project you work on.
 
 ## 1. Subject
@@ -54,4 +82,4 @@ as to *why* the change is being made. It should not concern itself about the
 specific changes being made, as this can be determined by a git diff.
 
 A commit body should wrap each line no later than 72 characters, and would
-ideally consist of at most a single sentence
+ideally consist of at most a single sentence -->
