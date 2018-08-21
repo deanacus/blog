@@ -1,4 +1,4 @@
 // @font-face rules go here
 
 @include font-face( 'Inconsolata', regular );
-@include font-face( 'Gilroy', bold );
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700');
