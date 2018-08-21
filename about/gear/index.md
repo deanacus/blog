@@ -33,9 +33,10 @@ title: Gear
 
 ## Skateboarding
 
-* Deck: Blind
-* Trucks: Tensor
-* Wheels: Blind
+* Blind Deck
+* Tensor Trucks
+* Blind Wheel
+* Nike SB Dunk Low Pro
 
 [code]: https://code.visualstudio.com/
 [hyper]: https://hyper.is/
