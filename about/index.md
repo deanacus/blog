@@ -15,7 +15,7 @@ Originally from the small town of [Lismore][lismore], I live in [Brisbane][brisb
 
 ## Colphon
 
-This site is built with [Jekyll](jekyll), hosted for free at [Surge](surge). The [source][repo] is available to browse on [GitHub](github)
+This site is built with [Jekyll](jekyll), hosted for free at [Surge](surge). The [source][repo] is available to browse on [GitHub][github]
 
 Check out the [gear][gear] page to see what I use to do the things I do.
 
