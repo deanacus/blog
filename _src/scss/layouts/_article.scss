@@ -10,6 +10,20 @@ article {
         }
     }
 
+    blockquote {
+        font-style: italic;
+
+        & p:first-child::before {
+            content: '\00201C';
+            display: inline;
+        }
+
+        & p:last-child::after {
+            content: '\00201D';
+            display: inline;
+        }
+    }
+
     blockquote cite {
         display: block;
         text-align: right;

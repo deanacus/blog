@@ -1,3 +1,5 @@
+name: Deanacus
+description: A weblog by Dean Harris.
 permalink: article/:title/
 exclude: [package.json, yarn.lock, webpack.config.js, node_modules]
 markdown: kramdown
