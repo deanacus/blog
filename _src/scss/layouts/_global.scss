@@ -18,9 +18,10 @@ body {
 }
 
 @include min( 48rem ) {
-    img.breakout {
-        margin-left: -7.5rem;
-        max-width: 50rem;
+    .breakout {
+        left: 50%;
+        position: relative;
+        transform: translateX( -50% );
     }
 }
 
