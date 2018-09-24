@@ -10,6 +10,14 @@ article {
         }
     }
 
+    h2 {
+        font-size: $type-subheading;
+    }
+
+    h3 {
+        font-size: $type-large;
+    }
+
     blockquote {
         font-style: italic;
 

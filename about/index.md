@@ -13,7 +13,7 @@ Originally from the small town of [Lismore][lismore], I live in [Brisbane][brisb
 
 <!-- ![][photo]{:class="breakout"} -->
 
-## Colphon
+## Colophon
 
 This site is built with [Jekyll](jekyll), hosted for free at [Surge](surge). The [source][repo] is available to browse on [GitHub][github]
 
