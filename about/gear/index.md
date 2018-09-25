@@ -33,10 +33,27 @@ title: Gear
 
 ## Skateboarding
 
-* Blind Deck
-* Tensor Trucks
-* Blind Wheel
-* Nike SB Dunk Low Pro
+Deck
+: <del>Blind</del>
+: <del>Real Talk</del>
+: Parliament Skateboards Blank
+
+Trucks
+: <del>Tensor cheapies</del>
+: Independent
+
+Wheels
+: Blind cheapies
+
+Bearings
+: ?
+
+Hardware
+: Picture Wheel Co
+
+Shoes
+: Nike SB Dunk Low Pro
+
 
 [code]: https://code.visualstudio.com/
 [hyper]: https://hyper.is/
