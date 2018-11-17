@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack --mode=development --watch & jekyll build --watch",
-    "drafts": "webpack --mode=development --watch & jekyll build --watch --drafts",
+    "dev": "jekyll build && webpack --mode=development --watch",
+    "drafts": "webpack --mode=development && jekyll build --watch --drafts",
     "build": "webpack --mode=production && jekyll build",
     "serve": "light-server -s ./_site/ -p 8080 -w \"_site/**/*\" -o",
     "deploy": "yarn run build && surge ./_site/"
