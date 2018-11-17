@@ -35,6 +35,11 @@ html {
     font-family: $body;
     font-size: 100%;
     line-height: 1.6;
+
+    &.night {
+        background: $black;
+        color: $white;
+    }
 }
 
 img {
