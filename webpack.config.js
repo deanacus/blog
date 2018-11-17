@@ -1,4 +1,5 @@
 const path = require( 'path' );
+const FriendlyErrorsWebpackPlugin = require('friendly-errors-webpack-plugin');
 
 const config = {
     entry: [
@@ -52,6 +53,10 @@ const config = {
             '.jsx',
         ],
     },
+    plugins: [
+        new FriendlyErrorsWebpackPlugin(),
+    ],
+    stats: false,
 };
 
 module.exports = config;

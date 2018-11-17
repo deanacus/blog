@@ -40,4 +40,12 @@ article {
             content: '\2014 ';
         }
     }
+
+    code {
+	background: $light-white;
+	border: .05rem solid $mid-black;
+	border-radius: .25rem;
+	display: inline-block;
+	padding: 0 .25rem;
+    }
 }

@@ -13,6 +13,7 @@ title: Gear
 
 * MacOS
 * [Visual Sudio Code][code]
+* [Vim][vim]
 * [Hyper][hyper]
 * [Lacona][lacona]
 * [1Password][1password]
@@ -52,16 +53,18 @@ Hardware
 : Picture Wheel Co
 
 Shoes
-: Nike SB Dunk Low Pro
+: <del>Nike SB Dunk Low Pro</del>
+: Adidas Matchcourt
 
 
 [code]: https://code.visualstudio.com/
+[vim]: https://www.vim.org/
 [hyper]: https://hyper.is/
 [lacona]: https://www.lacona.io/
 [1password]: https://1password.com/
 [spectacle]: https://www.spectacleapp.com/
 [chrome]: https://www.google.com/chrome/
-[firefox]: https://www.mozilla.org/en-GB/firefox/new/?utm_medium=referral&utm_source=firefox-com
+[firefox]: https://www.mozilla.org/en-GB/firefox/new/
 [node]: https://nodejs.org/
 [yarn]: https://yarnpkg.com
 [webpack]:https://webpack.js.org/
