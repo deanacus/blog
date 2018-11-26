@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Vim Cheatsheet
 ---
 
@@ -59,4 +59,29 @@ title: Vim Cheatsheet
 
 ## Folding
 
+### Opening folds
+
 `zo` - Open current fold (in Normal mode)
+
+`zO` - Open all folds within the current fold (in Normal mode)
+
+`zR` - Open all folds (in Normal mode)
+
+### Closing folds
+
+`zc` - Close current fold (in Normal mode)
+
+`zC` - Close all folds under the current fold (in Normal mode)
+
+`zM` - Close all available folds (in Normal mode)
+
+## NERDTree
+
+I use [NERDTree][1] for my file manager. Here is a couple of thing that I need
+to remember when I'm using it. It might be specific to my config, though.
+
+`\f` - Toggle  NERDTree visibility
+
+`m` - Perform a filesystem action on the current node
+
+`
