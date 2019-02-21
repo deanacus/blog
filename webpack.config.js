@@ -1,5 +1,5 @@
 const path = require( 'path' );
-const FriendlyErrorsWebpackPlugin = require('friendly-errors-webpack-plugin');
+const FriendlyErrorsWebpackPlugin = require( 'friendly-errors-webpack-plugin' );
 
 const config = {
     entry: [
