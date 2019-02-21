@@ -5,7 +5,7 @@ title: Gear
 
 ## Hardware
 
-* Mid 2014 MacBook Pro with Retina Display
+* 2017 MacBook Pro (13 inch)
 * iPhone 7+
 * [Plantronics BackBeat Pro 2][bb2]
 
@@ -44,10 +44,11 @@ Trucks
 : Independent
 
 Wheels
-: Blind cheapies
+: <del>Blind cheapies</del>
+: Picture Wheel Co Pop 53mm
 
 Bearings
-: ?
+: Bones Reds
 
 Hardware
 : Picture Wheel Co
