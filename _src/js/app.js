@@ -1,5 +1,5 @@
 const main = function() {
-    // Main app code goes here
+    console.log( 'Hello, I think I love you!' );
 };
 
 
