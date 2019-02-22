@@ -3,8 +3,8 @@ const FriendlyErrorsWebpackPlugin = require( 'friendly-errors-webpack-plugin' );
 
 const config = {
     entry: [
-        path.resolve( __dirname, './_src/js/app.js' ),
-        path.resolve( __dirname, './_src/scss/style.scss' ),
+        './_src/js/app.js',
+        './_src/scss/style.scss',
     ],
     output: {
         path: path.resolve( __dirname, 'assets' ),
@@ -52,6 +52,10 @@ const config = {
             '.js',
             '.jsx',
         ],
+    },
+    devServer: {
+        contentBase: './_site',
+        quiet: true,
     },
     plugins: [
         new FriendlyErrorsWebpackPlugin(),

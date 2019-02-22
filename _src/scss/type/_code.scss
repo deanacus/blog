@@ -10,6 +10,6 @@ var {
 pre code {
     background: $light-white;
     display: block;
-    overflow-x: scroll;
+    overflow: auto;
     padding: 1rem;
 }
