@@ -52,7 +52,7 @@ radius to smooth things out nicely.
 We're going to need some way of detecting that our image is within the viewport.
 Previously, we would probably add a scroll event listener to the window object 
 and do some maths on every scroll, for every image, to see whether or not it was
-in the viewport. But the IntersectionObserver API has made this much simpler.
+in the viewport. But the [IntersectionObserver API][1] has made this much simpler.
 
 IntersectionObserver takes an array of elements, and observes their position in 
 relation to the viewport asynchronously, allowing us to perform some tasks on
@@ -139,6 +139,8 @@ images.map( image => observer.observe( image ) );
 We could make it much more reusable, by turning it into an ES module that we can
 import and intialise, rather than having to have this all in our main file. But
 that's a story for another day.
+
+[1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API "IntersectionObserver API on MDN"
 
 [^1]: I'm assuming you've styled your images in your CSS and they'll be the same
 size automatically. If not, you'll need to style your placeholder to be the same
