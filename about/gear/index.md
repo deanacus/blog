@@ -8,6 +8,7 @@ title: Gear
 * 2017 MacBook Pro (13 inch)
 * iPhone 7+
 * [Plantronics BackBeat Pro 2][bb2]
+* [Ann Pro Mechanical keyboard][annepro]
 
 ## Software
 
@@ -73,3 +74,4 @@ Shoes
 [wp]: https://wordpress.org/
 [react]: https://reactjs.org/
 [bb2]: https://www.plantronics.com/au/en/product/backbeat-pro-2
+[annepro]: https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07MR775BR

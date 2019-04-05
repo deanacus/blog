@@ -55,6 +55,7 @@ const config = {
     },
     devServer: {
         contentBase: './_site',
+        publicPath: '/assets/',
         quiet: true,
     },
     plugins: [
