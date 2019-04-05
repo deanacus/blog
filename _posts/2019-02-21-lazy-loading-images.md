@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lazy Loading Images for dummies
+title: Lazy Loading Images
 ---
 
 Images are an important thing on the internet - they help make it pretty! But 
