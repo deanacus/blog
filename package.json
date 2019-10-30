@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "jekyll build --watch & webpack-dev-server --open --mode=production",
     "drafts": "jekyll build --watch --drafts & webpack-dev-server --open --mode development",
-    "build": "webpack --mode=production && jekyll build",
-    "deploy": "jekyll build && webpack --mode=production && surge ./_site/"
+    "build": "webpack --mode=production & jekyll build"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
