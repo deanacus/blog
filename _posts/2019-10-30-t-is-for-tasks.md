@@ -39,6 +39,8 @@ The code is likely not well structured as a Go app, and I've got no idea how
 idiomatic it is, so I'm more than open to feedback and pull requests to make it
 more correct.
 
+[Check it out on Github][t]
+
 ### Features
 
 There's not many. You can add a task to a list, but you can't add the same task
