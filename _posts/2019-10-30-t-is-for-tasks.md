@@ -32,8 +32,6 @@ extremely limited in the scope of what it can do, but it works for me, and it
 manager" that offers you the ability to add, delete, and list todo items that
 are stored in a todo.txt file in a `.t` directory in your `$HOME` directory.
 
-[Check it out on Github][t]
-
 I've currently only compiled it for MacOS, but for the next release there should
 be a Windows and Linux version.
 
