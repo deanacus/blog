@@ -6,12 +6,12 @@
   "scripts": {
     "dev": "jekyll build --watch & webpack-dev-server --open --mode=production",
     "drafts": "jekyll build --watch --drafts & webpack-dev-server --open --mode development",
-    "build": "webpack --mode=production & jekyll build"
+    "build": "webpack --mode=production"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
     "babel-loader": "^8.0.6",
-    "babel-preset-env": "^1.6.1",
     "babel-preset-minify": "^0.5.1",
     "css-loader": "^3.2.0",
     "eslint": "^6.6.0",
