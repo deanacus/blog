@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Gear
+title: Uses
 ---
 
 ## Hardware
 
-* 2017 MacBook Pro (13 inch)
-* iPhone 7+
+* Macbook Pro (15 inch, 2017) - Work
+* Macbook Pro (13 inch, 2017) - Home
+* iPhone XR
 * [Plantronics BackBeat Pro 2][bb2]
-* [Ann Pro Mechanical keyboard][annepro]
+* [Audio Technica ATH-E50][iem]
+* ["Custom" KBDFans 5&deg;][kbd] with Cherry Blues
+* [Logitech G302][mouse]
 
 ## Software
 
@@ -19,30 +22,41 @@ title: Gear
 * [Lacona][lacona]
 * [1Password][1password]
 * [Spectacle][spectacle]
-* [Google Chrome][chrome]
 * [Firefox][firefox]
+* Rocketrocket
+* Figma
+* Synology Diskstation
 
 ## Development Stack
 
 * [Node][node]
 * [Yarn][yarn]
 * [Webpack][webpack]
+* [Rollup][rollup]
+* [React][react]
+* [Styled Components][styled]
+* [WordPress][wp]
 * Plain JS
 * HTML
 * [SCSS][scss]
-* [WordPress][wp]
-* [React][react]
+
+## Services
+
+* Github
+* Spotify
+* Netlify
+* Feedwrangler
 
 ## Skateboarding
 
 Deck
-: <del>Blind</del>
-: <del>Real Talk</del>
-: Parliament Skateboards Blank
+: Way too many snapped decks to mention. I do love to skate an 8" shop deck from
+  [Parliament][parliament], though.
 
 Trucks
 : <del>Tensor cheapies</del>
-: Independent
+: <del>Independent</del>
+: Silver (both color *and* brand)
 
 Wheels
 : <del>Blind cheapies</del>
@@ -56,7 +70,8 @@ Hardware
 
 Shoes
 : <del>Nike SB Dunk Low Pro</del>
-: Adidas Matchcourt
+: <del>Adidas Matchcourt</del>
+: Adidas Tyshawn
 
 
 [code]: https://code.visualstudio.com/
@@ -74,4 +89,9 @@ Shoes
 [wp]: https://wordpress.org/
 [react]: https://reactjs.org/
 [bb2]: https://www.plantronics.com/au/en/product/backbeat-pro-2
-[annepro]: https://www.amazon.com/Anne-Mechanical-Gaming-Keyboard-Backlit/dp/B07MR775BR
+[iem]: http://audio-technica.com.au/products/ath-e50/
+[kbd]: https://kbdfans.com/products/fully-assembled-5-mechanical-keyboard?variant=29021922590768
+[mouse]: https://www.logitechg.com/en-au/products/gaming-mice/g302-moba-gaming-mouse.html
+[parliament]: https://www.parliamentskateshop.com/collections/parliament/products/parliament-longboards-deck-various-stains
+[styled]: https://styled-components.com
+[rollup]: https://rollupjs.org

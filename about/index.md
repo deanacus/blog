@@ -17,7 +17,7 @@ Originally from the small town of [Lismore][lismore], I live in [Brisbane][brisb
 
 This site is built with [Jekyll](jekyll), hosted for free at [Netlify](netlify). The [source][repo] is available to browse on [GitHub][github]
 
-Check out the [gear][gear] page to see what I use to do the things I do.
+Check out the [gear][gear] page to see what I use to do the things I do. Or check out what I'm up to [now][now].
 
 
 [lismore]: https://en.wikipedia.org/wiki/Lismore,_New_South_Wales "Lismore"
@@ -27,5 +27,6 @@ Check out the [gear][gear] page to see what I use to do the things I do.
 [repo]: https://github.com/deanacus/blog "Github repository"
 [github]: https://github.com/deanacus/ "Deanacus on GitHub"
 [photo]: /assets/img/image.jpg
-[gear]: /about/gear/
+[gear]: /uses/
+[now]: /now/
 [puppies]: https://www.instagram.com/evie_and_snickers/
