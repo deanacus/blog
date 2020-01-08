@@ -12,10 +12,12 @@ title: Uses
 * [Audio Technica ATH-E50][iem]
 * ["Custom" KBDFans 5&deg;][kbd] with Cherry Blues
 * [Logitech G302][mouse]
+* [Synology Diskstation DS418j][nas]
 
 ## Software
 
 * MacOS
+* [Fish][fish]
 * [Visual Sudio Code][code]
 * [Vim][vim]
 * [Hyper][hyper]
@@ -23,9 +25,9 @@ title: Uses
 * [1Password][1password]
 * [Spectacle][spectacle]
 * [Firefox][firefox]
-* Rocketrocket
-* Figma
-* Synology Diskstation
+* [Rocket][rocket]
+* [Figma][figma]
+
 
 ## Development Stack
 
@@ -47,32 +49,6 @@ title: Uses
 * Netlify
 * Feedwrangler
 
-## Skateboarding
-
-Deck
-: Way too many snapped decks to mention. I do love to skate an 8" shop deck from
-  [Parliament][parliament], though.
-
-Trucks
-: <del>Tensor cheapies</del>
-: <del>Independent</del>
-: Silver (both color *and* brand)
-
-Wheels
-: <del>Blind cheapies</del>
-: Picture Wheel Co Pop 53mm
-
-Bearings
-: Bones Reds
-
-Hardware
-: Picture Wheel Co
-
-Shoes
-: <del>Nike SB Dunk Low Pro</del>
-: <del>Adidas Matchcourt</del>
-: Adidas Tyshawn
-
 
 [code]: https://code.visualstudio.com/
 [vim]: https://www.vim.org/
@@ -92,6 +68,9 @@ Shoes
 [iem]: http://audio-technica.com.au/products/ath-e50/
 [kbd]: https://kbdfans.com/products/fully-assembled-5-mechanical-keyboard?variant=29021922590768
 [mouse]: https://www.logitechg.com/en-au/products/gaming-mice/g302-moba-gaming-mouse.html
-[parliament]: https://www.parliamentskateshop.com/collections/parliament/products/parliament-longboards-deck-various-stains
 [styled]: https://styled-components.com
 [rollup]: https://rollupjs.org
+[nas]: https://www.synology.com/en-global/products/DS418j
+[rocket]: https://matthewpalmer.net/rocket/
+[figma]: https://figma.com/
+[fish]: https://fishshell.com/
